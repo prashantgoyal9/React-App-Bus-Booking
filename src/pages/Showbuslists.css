@@ -1,0 +1,27 @@
+.bus-single {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    gap: 1rem;
+    padding: 2rem;
+    border: 0px solid;
+    border-radius: 0.71rem;
+    box-shadow: 2px 2px 20px 2px #00000061;
+    margin-bottom: 2rem;
+}
+
+.bus-single div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bus-single div h4{
+width: 20rem;
+}
+
+.showBtn{
+    width: 10rem;
+}

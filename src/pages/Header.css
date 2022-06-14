@@ -1,0 +1,11 @@
+
+.navbar-brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.65rem;
+    text-decoration: none;
+    font-weight: 700;
+    color: aliceblue;
+    white-space: nowrap;}

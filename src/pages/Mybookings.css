@@ -1,0 +1,51 @@
+.main-main-mybooking{
+  position: fixed;
+  background: #000000c4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 4rem;
+}
+
+.main-mybooking {
+  width: 60vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50rem;
+  gap: 1rem;
+  padding: 2rem;
+  border: 0px solid;
+  border-radius: 0.71rem;
+  box-shadow: 2px 2px 20px 2px #00000061;
+  background: aliceblue;
+}
+
+
+
+.book_item{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50rem;
+  gap: 1rem;
+  padding: 0rem;
+
+}
+
+
+.head{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 1rem;
+}
+
+div h2{
+  font-size: 1rem;
+}
+
+div h3{
+  font-size: 1rem;
+}

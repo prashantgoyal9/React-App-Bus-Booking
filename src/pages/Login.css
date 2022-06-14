@@ -1,0 +1,30 @@
+.main-login {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50rem;
+  gap: 1rem;
+  padding: 2rem;
+  border: 0px solid;
+  border-radius: 0.71rem;
+  box-shadow: 2px 2px 20px 2px #00000061;
+}
+
+.main-login-01 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5rem;
+}
+
+#log{
+  text-align: center;
+}
+
+.main-login div h2{
+  font-size: 1.5rem;
+}
+
+.main-login div input{
+  /* width: 10rem; */
+}

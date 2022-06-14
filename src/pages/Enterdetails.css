@@ -1,0 +1,51 @@
+.main-enterdetails {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2rem;
+  background: #0c0c0cbf;
+  width: 100%;
+}
+
+.main-enterdetails-01 {
+  background-color: #fffcfc;
+  width: 65%;
+  border: 1px soloid red;
+  /* padding: 2rem; */
+  padding: 2rem;
+  height: fit-content;
+  border-radius: 0.7rem;
+}
+
+.count{
+  display: flex;
+  gap: -1rem;
+  width: 7rem;
+  border: 1px solid;
+  margin-bottom: 1rem;
+}
+
+.count_in{
+  border: 0px;
+  width: 41px;
+  padding-left: 12px;
+  font-size: larger;
+  font-weight: 700;
+}
+
+.main-enterdetails-01 div h2{
+  font-size: 1.5rem;
+}
+
+.main-enterdetails-01 div h3{
+  font-size: 1rem;
+}
+
+
+.detail_btn{
+  display: flex;
+  gap: 2rem;
+}

@@ -1,0 +1,37 @@
+.main-register-2  {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50rem;
+  gap: 2rem;
+  padding: 2rem;
+  border: 0px solid;
+  border-radius: 0.71rem;
+  box-shadow: 2px 2px 20px 2px #00000061;
+}
+
+.main-register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+
+.main-register-2 div{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+#reg{
+  text-align: center;
+}
+
+.r-b{
+  width: 10rem;
+  align-items: center;
+}
+
+.main-register-2 div h2{
+  font-size: 1.5rem;
+}
